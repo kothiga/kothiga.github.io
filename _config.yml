@@ -108,35 +108,41 @@ author:
   location   : "Waterloo, Canada"
   email      : "austin.kothig@uwaterloo.ca"
   links:
-    - label  :  "SIRRL"
-      icon   :  "fas fa-fw briefcase"
+    - label  :  " SIRRL"
+      icon   :  "fas fa-briefcase"
       url    :  "https://uwaterloo.ca/social-intelligent-robotics-research-lab/"
-    - label  :  "Google Scholar"
+
+    - label  :  "  Google Scholar"
       icon   :  "fa fa-graduation-cap"
       url    :  "https://scholar.google.ca/citations?user=3oIJ5pUAAAAJ&hl=en"
-    - label  :  "kothiga"
-      icon   :  "fab fa-fw fa-github"
-      url    :  "https://github.com/kothiga"
-    - label  :  "austin-kothig"
+
+    - label  :  "  LinkedIn"
       icon   :  "fab fa-fw fa-linkedin"
       url    :  "https://www.linkedin.com/in/austin-kothig/"
-    - label  :  "austin-kothig"
+
+    - label  :  "  Research Gate"
       icon   :  "fab fa-fw fa-researchgate"
       url    :  "https://www.researchgate.net/profile/Austin-Kothig"
+
     - label  :  "@AustinKothig"
       icon   :  "fab fa-fw fa-twitter-square"
       url    :  "https://twitter.com/AustinKothig"
+      
+    - label  :  "  kothiga"
+      icon   :  "fab fa-fw fa-github"
+      url    :  "https://github.com/kothiga"
 
 
 # Site Footer
 footer:
   links:
-    - label :  "Twitter"
-      icon  :  "fab fa-fw fa-twitter-square"
-      url   :  "https://twitter.com/AustinKothig"
     - label :  "GitHub"
       icon  :  "fab fa-fw fa-github"
       url   :  "https://github.com/kothiga"
+      
+    - label :  "Twitter"
+      icon  :  "fab fa-fw fa-twitter-square"
+      url   :  "https://twitter.com/AustinKothig"
 
 
 # Reading Files
@@ -205,9 +211,9 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+# paginate: 5 # amount of posts to show
+# paginate_path: /page:num/
+timezone: America/Toronto # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
@@ -264,6 +270,16 @@ compress_html:
     envs: development
 
 
+# Collections
+collections:
+  pubs:
+    output: true
+    permalink: /:collection/:path/
+  projects:
+    output: true
+    permalink: /:collection/:path/
+    
+
 # Defaults
 defaults:
   # _posts
@@ -277,3 +293,30 @@ defaults:
       comments: # true
       share: true
       related: true
+
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      classes: wide
+      author_profile: true
+
+  # _pubs
+  - scope:
+      path: ""
+      type: pubs
+    values:
+      layout: single
+      classes: wide
+      author_profile: true
+
+  # _projects
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      classes: wide
+      author_profile: true
