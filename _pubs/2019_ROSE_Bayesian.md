@@ -68,6 +68,7 @@ Humans make use of auditory cues to navigate and communicate in complex acoustic
     author={Kothig, Austin and Ilievski, Marko and Grasse, Lukas and Rea, Francesco and Tata, Matthew},
     booktitle={2019 IEEE International Symposium on Robotic and Sensors Environments (ROSE)},
     pages={1--7},
+    month={June},
     year={2019},
     organization={IEEE},
     url={http://dx.doi.org/10.1109/ROSE.2019.8790411}, 
