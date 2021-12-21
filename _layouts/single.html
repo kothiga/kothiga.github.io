@@ -31,6 +31,7 @@ layout: default
           </h1>{% endif %}
           {% include page__meta.html %}
         </header>
+        {% include page__date.html %}
       {% endunless %}
 
       <section class="page__content e-content" itemprop="text">
@@ -51,7 +52,7 @@ layout: default
           <h4 class="page__meta-title">{{ site.data.ui-text[site.locale].meta_label }}</h4>
         {% endif %}
         {% include page__taxonomy.html %}
-        {% include page__date.html %}
+        <!-- % include page__date.html %} -->
       </footer>
 
       {% if page.share %}{% include social-share.html %}{% endif %}

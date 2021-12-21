@@ -1,6 +1,8 @@
 ---
-title: "Publications"
+title: Publications
+layout: collection
 permalink: /pubs/
-layout: category
-author_profile: true
+collection: pubs
+sort_order: reverse
+classes: wide
 ---
