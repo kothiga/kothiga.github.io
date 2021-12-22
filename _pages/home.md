@@ -7,7 +7,9 @@ author_profile: true
 Hi! I’m Austin Kothig, a social robotics researcher
 ===
 
-I am a **PhD student** in the department of **[Systems Design Engineering](https://uwaterloo.ca/systems-design-engineering/)** at the **[University of Waterloo](https://uwaterloo.ca/)**, advised by **[Kerstin Dautenhahn](https://uwaterloo.ca/electrical-computer-engineering/profile/kdautenh)**.
+I am a **PhD student** in the department of **Systems Design Engineering** at the **University of Waterloo**, advised by **Kerstin Dautenhahn**. I am affiliated with the **Social and Intelligent Robotics Research Lab (SIRRL)**. 
+
+<img width="33%" style="float: right;" src="../assets/images/work/sirrl_logo.png"> 
 
 My main research interests are in human-robot interaction, embodied social agents, cognitive interaction, expressive behaviour, and artificial intelligence.
 
