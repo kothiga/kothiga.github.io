@@ -4,32 +4,39 @@ permalink: /education/
 classes: wide
 ---
 
+
+<figure style="width: 18%" class="align-right">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/education/uwaterloo_logo.png" alt="">
+</figure> 
+
 ### PhD in Systems Design Engineering
 
-<img width="18%" style="float: right;" src="../assets/images/education/uwaterloo_logo.png">
-
-*Expected* August 2025, University of Waterloo, *GPA --*<br>
+*Expected* August 2025, University of Waterloo, *GPA -- 93.00%*<br>
 **Supervisor**: Dr. Kerstin Dautenhahn <br>
-**Received** the Engineering Excellence Fellowship (PhD).
+**Received** the Engineering Excellence Fellowship (PhD). <br><br><br>
 
 ---
+
+<figure style="width: 18%" class="align-right">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/education/uwaterloo_logo.png" alt="">
+</figure> 
 
 ### MASc in Systems Design Engineering
 
-<img width="18%" style="float: right;" src="../assets/images/education/uwaterloo_logo.png"> 
-
 August 2021, University of Waterloo, *GPA -- 89.25%*<br>
-**Thesis**: "[Accessible Integration of Physiological Adaptation in Human-Robot Interaction](https://uwspace.uwaterloo.ca/handle/10012/17462)"<br>
+**Thesis**: "[Accessible Integration of Physiological Adaptation in <br> Human-Robot Interaction](https://uwspace.uwaterloo.ca/handle/10012/17462)"<br>
 **Supervisor**: Dr. Kerstin Dautenhahn<br>
-**Received** a Microsoft AI for Social Good research grant.
+**Received** a Microsoft AI for Social Good research grant.<br><br>
 
 ---
 
-<img width="18%" style="float: right;" src="../assets/images/education/uofl_logo.png">
+<figure style="width: 18%" class="align-right">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/education/uofl_logo.png" alt="">
+</figure> 
 
 ### BSc in Computer Science 
 
 April 2019, University of Lethbridge, *GPA -- 80.75%*<br>
 Graduated with Co-operative Education <br>
 **Exchange term** at the Italian Institute of Technology (Genoa, Italy) <br>
-**Received** funding from NSERC USRA, Mitacs Globalink, and Chinook awards for research projects.
+**Received** funding from NSERC USRA, Mitacs Globalink, and <br> Chinook awards for research projects.
