@@ -42,7 +42,7 @@ gallery_room_layout:
 **Kothig A.**, Ilievski M., Grasse L., Rea F., Tata M. <br /> Published in *IEEE International Symposium on Robotic and Sensors Environments '13. 2019 (ROSE)* 
 
 <a href="https://rose2019.ieee-ims.org/">
-<img width="25%" src="../../assets/images/conferences/rose2019.png">
+<img width="45%" src="{{ site.url }}{{ site.baseurl }}/assets/images/conferences/rose2019.png">
 </a>
 
 

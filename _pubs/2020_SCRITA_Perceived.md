@@ -20,7 +20,7 @@ gallery_robots:
 Aroyo AM., Pasquali D., **Kothig A.**, Rea F., Sandini G., Sciutti A. <br /> In Proceedings of the *SCRITA Workshop on Trust, Acceptance and Social Cues in Human-Robot Interaction '3. 2020 (RO-MAN)*
 
 <a href="https://scrita.herts.ac.uk/2020/">
-<img width="25%" src="../../assets/images/conferences/ro-man2020.png">
+<img width="25%" src="{{ site.url }}{{ site.baseurl }}/assets/images/conferences/ro-man2020.png">
 </a>
 
 

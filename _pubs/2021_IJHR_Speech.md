@@ -65,7 +65,7 @@ gallery_envelope:
 Rea F., **Kothig A.**, Grasse L., Tata M. <br /> Published in *International Journal of Humanoid Robotics 2021 (IJHR)* 
 
 <a href="https://www.worldscientific.com/worldscinet/ijhr">
-<img width="25%" src="../../assets/images/conferences/ijhr2021.png">
+<img width="25%" src="{{ site.url }}{{ site.baseurl }}/assets/images/conferences/ijhr2021.png">
 </a>
 
 

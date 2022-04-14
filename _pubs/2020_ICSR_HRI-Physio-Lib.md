@@ -11,8 +11,8 @@ feature_row:
     btn_label: "Download Paper"
     btn_class: info
 gallery_framework:
-  - url:        /assets/images/pubs/ICSR_2020/HRIPhysioLib.png
-    image_path: /assets/images/pubs/ICSR_2020/HRIPhysioLib.png
+  - url:        /assets/images/pubs/ICSR_2020/HRI_Physio_Lib.png
+    image_path: /assets/images/pubs/ICSR_2020/HRI_Physio_Lib.png
     alt:        "Overview of the conceptual HRI Physio Lib framework"
     title:      "Overview of the conceptual HRI Physio Lib framework"
 ---
@@ -20,7 +20,7 @@ gallery_framework:
 **Kothig A.**, Muñoz J., Mahdi H., Aroyo AM., Dautenhahn K. <br /> Published in *International Conference on Social Robotics '12. 2020 (ICSR)* 
 
 <a href="https://sites.psu.edu/icsr2020/">
-<img width="25%" src="../../assets/images/conferences/icsr2020.png">
+<img width="60%" src="{{ site.url }}{{ site.baseurl }}/assets/images/conferences/icsr2020.png">
 </a>
 
 

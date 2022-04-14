@@ -11,13 +11,13 @@ feature_row:
     btn_label: "Download Paper"
     btn_class: info
 gallery_robot:
-  - url:        /assets/images/pubs/JAAE_2022/icub-crop.jpg
-    image_path: /assets/images/pubs/JAAE_2022/icub-crop.jpg
+  - url:        /assets/images/pubs/JAAE_2022/icub_crop.jpg
+    image_path: /assets/images/pubs/JAAE_2022/icub_crop.jpg
     alt:        "The humanoid robotics platform iCub. A robot with 53 actuated degrees of freedom distributed throughout its body. The robot is capable of grasping objects, speech synthesis, sharing mutual gaze, and expressing a range of high-level emotions through the multi-color LEDs under the face-plate."
     title:      "The humanoid robotics platform iCub. A robot with 53 actuated degrees of freedom distributed throughout its body. The robot is capable of grasping objects, speech synthesis, sharing mutual gaze, and expressing a range of high-level emotions through the multi-color LEDs under the face-plate."
 gallery_game:
-  - url:        /assets/images/pubs/JAAE_2022/TowerOfHanoi.png
-    image_path: /assets/images/pubs/JAAE_2022/TowerOfHanoi.png
+  - url:        /assets/images/pubs/JAAE_2022/Tower_of_Hanoi.png
+    image_path: /assets/images/pubs/JAAE_2022/Tower_of_Hanoi.png
     alt:        "(Top) Game start state, (Bottom) Game goal state, for a configuration of n = 4, k = 3, where n is the number of disks and k is the number of pegs. The Bicolor Towers is a variation of the classic children's puzzle game, Tower of Hanoi. Similar in rules to the original, disks are moved one by one between the pegs while maintaining a rule that no disk has a strictly larger disk on top of it. Which is to say, a disk can move from peg u to peg v if and only if the peg v is empty or the top disk of the peg is of equal or larger size. This variation adds a level of complexity, such that any person who is already familiar with the simple recursive solution to the Tower of Hanoi game may not immediately know how to arrive at this version's solution, and therefore may leverage the robot for some assistance."
     title:      "(Top) Game start state, (Bottom) Game goal state, for a configuration of n = 4, k = 3, where n is the number of disks and k is the number of pegs. The Bicolor Towers is a variation of the classic children's puzzle game, Tower of Hanoi. Similar in rules to the original, disks are moved one by one between the pegs while maintaining a rule that no disk has a strictly larger disk on top of it. Which is to say, a disk can move from peg u to peg v if and only if the peg v is empty or the top disk of the peg is of equal or larger size. This variation adds a level of complexity, such that any person who is already familiar with the simple recursive solution to the Tower of Hanoi game may not immediately know how to arrive at this version's solution, and therefore may leverage the robot for some assistance."
 ---
@@ -25,7 +25,7 @@ gallery_game:
 **Kothig A.**, Aroyo AM., Dautenhahn K. <br /> In *HRI 2022 Workshop on Joint Action, Adaptation, and Entrainment in Human-Robot Interaction (JAAE)*
 
 <a href="https://sites.google.com/view/hri2022jaae/">
-<img width="85%" src="../../assets/images/conferences/jaae2022.png">
+<img width="85%" src="{{ site.url }}{{ site.baseurl }}/assets/images/conferences/jaae2022.png">
 </a>
 
 

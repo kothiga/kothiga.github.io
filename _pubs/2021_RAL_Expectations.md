@@ -29,7 +29,7 @@ gallery_plots:
 Aroyo AM., Pasquali D., **Kothig A.**, Rea F., Sandini G., Sciutti A. <br /> Published in *IEEE Robotics and Automation Letters. 2021 (RAL)*
 
 <a href="https://www.ieee-ras.org/publications/ra-l">
-<img width="25%" src="../../assets/images/conferences/ral2021.png">
+<img width="25%" src="{{ site.url }}{{ site.baseurl }}/assets/images/conferences/ral2021.png">
 </a>
 
 

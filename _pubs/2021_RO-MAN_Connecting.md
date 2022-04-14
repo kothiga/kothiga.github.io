@@ -34,7 +34,7 @@ gallery_hr_time:
 **Kothig A.**, Muñoz J., Akgun SA., Aroyo AM., Dautenhahn K. <br /> Published in *IEEE International Conference on Robot and Human Interactive Communication '30. 2021 (RO-MAN)*
 
 <a href="https://ro-man2021.org/">
-<img width="25%" src="../../assets/images/conferences/ro-man2021.png">
+<img width="25%" src="{{ site.url }}{{ site.baseurl }}/assets/images/conferences/ro-man2021.png">
 </a>
 
 
