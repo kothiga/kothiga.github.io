@@ -13,12 +13,11 @@ An audio processing pipeline for the iCub humanoid robot.
 
 ### Description
 
-iCub Audio Attention is a research project I worked on during my undergraduate degree. I helped to developed this project with the Cognitive Robotics Lab at the [University of Lethbridge](https://www.ulethbridge.ca/), led by [Dr. Matthew Tata](https://www.ulethbridge.ca/artsci/neuroscience/dr-matthew-tata).
+iCub Audio Attention is a research project I worked on during my Undergraduate degree. I helped to develop this project with the Cognitive Robotics Lab at the [University of Lethbridge](https://www.ulethbridge.ca/), led by [Prof. Matthew Tata](https://www.ulethbridge.ca/artsci/neuroscience/dr-matthew-tata).
 
 The project aims to develop signal processing algorithms and audio capture tools for auditory perception for the iCub humanoid robot.
 
 I have received funding for this project from NSERC (USRA), Mitacs (Globalink), and the University of Lethbridge (Chinook). During the Fall 2018 semester, I was a visiting researcher at the Italian Institute of Technology in Genoa, Italy, to further develop the pipeline and ensure it works well on the iCub robot.
-
 
 The project is open-source and can be found [here<i class="fab fa-fw fa-github"></i>](https://github.com/TataLab/iCubAudioAttention).
 

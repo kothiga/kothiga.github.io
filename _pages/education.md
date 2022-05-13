@@ -11,9 +11,9 @@ classes: wide
 
 ### PhD in Systems Design Engineering
 
-*Expected* August 2025, University of Waterloo, *GPA -- 93.00%*<br>
-**Supervisor**: Dr. Kerstin Dautenhahn <br>
-**Received** the Engineering Excellence Fellowship (PhD). <br><br><br>
+*Expected* August 2025, University of Waterloo, *GPA -- 92.50%*<br>
+**Supervisor**: Prof. Kerstin Dautenhahn <br>
+**Received** the NSERC Postgraduate Scholarship-Doctoral (PGS D), University of Waterloo President’s Scholarship, and the Engineering Excellence Fellowship (PhD). <br><br><br>
 
 ---
 
@@ -24,8 +24,8 @@ classes: wide
 ### MASc in Systems Design Engineering
 
 August 2021, University of Waterloo, *GPA -- 89.25%*<br>
-**Thesis**: "[Accessible Integration of Physiological Adaptation in <br> Human-Robot Interaction](https://uwspace.uwaterloo.ca/handle/10012/17462)"<br>
-**Supervisor**: Dr. Kerstin Dautenhahn<br>
+**Thesis**: ["Accessible Integration of Physiological Adaptation in <br> Human-Robot Interaction"](https://uwspace.uwaterloo.ca/handle/10012/17462)<br>
+**Supervisor**: Prof. Kerstin Dautenhahn<br>
 **Received** a Microsoft AI for Social Good research grant.<br><br>
 
 ---
